@@ -1,6 +1,6 @@
 # Quiz
 A quiz made using c++
-1)I created three text files having name Easy,Medium and Hard in which quiz questions are present.Each file contains ten questions.
+1)I created three text files having name Easy,Medium and Hard in which quiz questions are present.Each file contains ten questions,the questions are fetched from the file in real time
 2)To ensure that questions are displayed randomly the scheme that i used is:-
  a)first the quiz starts from medium level questions i.e the program fetches the question from medium file,now if the user enters the correct answer then the next question 
 will be thrown from the hard file i.e the program fetches the question from hard file.But if the user chooses  the wrong option then the next question will be thrown from
