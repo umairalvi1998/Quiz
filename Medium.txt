@@ -1,0 +1,10 @@
+Donald trump is ____ president of America (1)46th (2)45th (3)50th (4)40th
+The format identifier ‘%i’ is also used for _____ data type (1)char (2)int (3)float (4)double
+What is the size of an int data type (1)4 bytes (2)8 Bytes (3)Depends on system/compiler (4)none
+The hottest planet in the solar system is ? (1)venus (2)Mars (3)Jupiter (4)Mercury
+The river that flows through Delhi is (1)Ganga (2)Yamuna (3)Narmada (4)Indus
+which one of the programming languages is purely object-oriented (1)C (2)C++ (3)R (4)Java
+Choose the correct spelt word out of the given alternatives (1)Damage (2)Damaege (3)Dammage (4)Damagee
+The common name for the crime of stealing passwords is (1)spooling (2)identity theft (3)spoofing (4)hacking
+DNS refers to.  (1)Data Number Sequence (2)Digital Network Service (3)Domain Name System (4)Disk Numbering System
+Java was originally invented by (1)Oracle (2)Microsoft (3)Novell (4)Sun
